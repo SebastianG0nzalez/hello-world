@@ -1,2 +1,5 @@
-# hello-world
-hello-world practice
+Hello-world 
+
+Grupo EVN302 
+
+Listar los miembros del equipo 
